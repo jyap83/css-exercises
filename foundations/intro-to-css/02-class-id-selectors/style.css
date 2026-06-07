@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.oddnumbers {
+  background-color: rgb(233, 150, 122);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.oddnumbers.cooler,
+#numberfour {
+  font-size: 24px;
+}
+
+#numbertwo {
+  color: hsl(240, 100%, 50%);
+  font-size: 36px;
+}
+
+#numberfour {
+  background-color: #96e661;
+  font-weight: bold;
+}
